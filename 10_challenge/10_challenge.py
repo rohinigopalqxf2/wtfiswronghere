@@ -10,6 +10,7 @@ For all integers between 1 and 99 (include both):
 """
 import fizzbuzz
 
+
 #----START OF SCRIPT
 if __name__=='__main__':
-    fizzbuzz(100)
+    fizzbuzz.fizzbuzz(100)
